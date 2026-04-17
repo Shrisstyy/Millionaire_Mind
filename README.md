@@ -14,7 +14,7 @@ Large Language Models (LLM)
 Ollama
 Randomization Logic
 
-Requirements
+Requirements:
 
 Python 3.8 or above
 Ollama installed on system
@@ -22,7 +22,7 @@ Compatible LLM model downloaded in Ollama (e.g. llama3 / mistral)
 Code Editor (VS Code recommended)
 Internet connection (for first-time model setup only)
 
-Python Libraries
+Python Libraries:
 
 random
 json
