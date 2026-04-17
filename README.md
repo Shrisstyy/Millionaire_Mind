@@ -9,22 +9,22 @@ Focused on backend logic and AI integration (no frontend interface)
 
 Technologies Used:
 
-Python
-Large Language Models (LLM)
-Ollama
-Randomization Logic
+1. Python
+2. Large Language Models (LLM)
+3. Ollama
+4. Randomization Logic
 
 Requirements:
 
-Python 3.8 or above
-Ollama installed on system
-Compatible LLM model downloaded in Ollama (e.g. llama3 / mistral)
-Code Editor (VS Code recommended)
-Internet connection (for first-time model setup only)
+1. Python 3.8 or above
+2. Ollama installed on system
+3. Compatible LLM model downloaded in Ollama (e.g. llama3 / mistral)
+4. Code Editor (VS Code recommended)
+5. Internet connection (for first-time model setup only)
 
 Python Libraries:
 
-random
-json
-requests
+1. random
+2. json
+3. requests
 
